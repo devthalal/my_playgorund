@@ -1,0 +1,8 @@
+{
+  "name": "my_playgorund",
+  "type": "appBlock",
+  "source": {
+    "https": "https://github.com/devthalal/my_playgorund",
+    "ssh": "git@github.com:devthalal/my_playgorund.git"
+  }
+}
